@@ -31,26 +31,25 @@ The game supports snapshots. The joypad input history is also
 saved in the snapshot. It's thus possible to replay a playthrough 
 in turbo mode to verify that the game behaves correctly.
 
------------------------
+--------------------------------------------------------------
  <table>
   <tr>
     <th>Button</th>
     <th>Key</th>
   </tr>
   <tr>
-  <tr><td>Up</td><td>Up Arrow</td></tr>
-  <tr><td>Down</td></tr>
-  <tr><td>Left</td></tr>
-  <tr><td>Right</td></tr>
-  <tr><td>Start</td></tr>
-  <tr><td>Select</td></tr>
-  <tr><td>A</td></tr>
-  <tr><td>B</td></tr>
-  <tr><td>X</td></tr>
-  <tr><td>Y</td></tr>
-  <tr><td>L</td></tr>
-  <tr><td>R</td></tr>
+  <tr> <td> Up </td> <td>Up Arrow</td></tr>
+  <tr> <td> Down </td> <td>Down Arrow</td></tr>
+  <tr> <td> Left </td> <td>Left Arrow</td></tr>
+  <tr> <td> Right </td> <td>Right Arrow</td></tr>
+  <tr> <td> Start </td> <td>Enter</td></tr>
+  <tr> <td> Select </td> <td>Right Shift</td></tr>
+  <tr> <td> A </td> <td>  X </td></tr>
+  <tr> <td> B </td> <td>  Z </td></tr>
+  <tr> <td> X </td> <td>  S </td></tr>
+  <tr> <td> Y </td> <td>  A </td></tr>
+  <tr> <td> L </td> <td>  C </td></tr>
+  <tr> <td> R </td> <td>  V </td></tr>
   </tr>
-  
 </table> 
-------------------------
+
