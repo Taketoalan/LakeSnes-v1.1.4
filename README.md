@@ -21,7 +21,8 @@ into executable binaries.
 https://github.com/neurobin/shc
 
 This project is based in the GNU Version 3 license.
-Usage and controls
+
+https://www.gnu.org/licenses/gpl-3.0.html
 
 Usage and controls
 --------------------------------------------------------------
