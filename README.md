@@ -1,0 +1,23 @@
+LakeSnes v1.1.4
+----------------------------------------------------------
+
+A frontend for the Lakesnes emulator with many 
+improvements and greater ease of use based on 
+YAD GUI for GNU/Linux systems.
+
+https://github.com/Taketoalan/LakeSnes-v1.1.4
+
+Based in the Project of LakeSnes of angelo-wf.
+
+https://github.com/angelo-wf/LakeSnes
+
+Maked by the YAD Libraries.
+
+https://github.com/v1cont/yad
+
+Compiled scripts to convert shell scripts 
+into executable binaries.
+
+https://github.com/neurobin/shc
+
+This project is based in the GNU Version 3 license.
