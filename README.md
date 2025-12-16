@@ -32,16 +32,27 @@ in turbo mode to verify that the game behaves correctly.
 
 -----------------------
 Button |	  Key
+
 Up 	   |   Up arrow
+
 Down   |	 Down arrow
+
 Left   |	 Left arrow
+
 Right  |	 Right arrow
+
 Start  |	 Enter
+
 Select |	 Right shift
+
 A      |	 X
+
 B 	   |   Z
+
 X 	   |   S
+
 Y 	   |   A
+
 L 	   |   C
 R 	   |   V
 ------------------------
