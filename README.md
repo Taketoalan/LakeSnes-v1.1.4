@@ -31,30 +31,30 @@ saved in the snapshot. It's thus possible to replay a playthrough
 in turbo mode to verify that the game behaves correctly.
 
 -----------------------
-Button |	  Key
+Button   |	  Key
 
-Up 	   |   Up arrow
+Up 	     |   Up arrow
 
-Down   |	 Down arrow
+Down     |	 Down arrow
 
-Left   |	 Left arrow
+Left     |	 Left arrow
 
-Right  |	 Right arrow
+Right    |	 Right arrow
 
-Start  |	 Enter
+Start    |	 Enter
 
-Select |	 Right shift
+Select   |	 Right shift
 
-A      |	 X
+A        |	   X
 
-B 	   |   Z
+B 	     |     Z
 
-X 	   |   S
+X 	     |     S
 
-Y 	   |   A
+Y 	     |     A
 
-L 	   |   C
+L 	     |     C
 
-R 	   |   V
+R 	     |     V
 
 ------------------------
