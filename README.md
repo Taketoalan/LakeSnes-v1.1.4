@@ -38,19 +38,19 @@ in turbo mode to verify that the game behaves correctly.
     <th>Key</th>
   </tr>
   <tr>
-    <td>Up</td>
-  </tr> 
-    <td>Down</td>
-    <td>Left</td>
-    <td>Right</td>
-    <td>Start</td>
-    <td>Select</td>
-    <td>A</td>
-    <td>B</td>
-    <td>X</td>
-    <td>Y</td>
-    <td>L</td>
-    <td>R</td>
+  <tr><td>Up</td></tr>
+  <tr><td>Down</td></tr>
+  <tr><td>Left</td></tr>
+  <tr><td>Right</td></tr>
+  <tr><td>Start</td></tr>
+  <tr><td>Select</td></tr>
+  <tr><td>A</td></tr>
+  <tr><td>B</td></tr>
+  <tr><td>X</td></tr>
+  <tr><td>Y</td></tr>
+  <tr><td>L</td></tr>
+  <tr><td>R</td></tr>
   </tr>
+  
 </table> 
 ------------------------
