@@ -1,0 +1,12 @@
+LakeSnes v 0.1.4
+----------------------------------------------------------
+
+Based in the Project of LakeSnes of angelo-wf
+
+https://github.com/angelo-wf/LakeSnes
+
+Maked by the YAD Libraries
+
+https://github.com/v1cont/yad
+
+This project is based in the GNU Version 3 license
