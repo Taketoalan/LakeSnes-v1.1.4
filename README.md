@@ -38,7 +38,7 @@ in turbo mode to verify that the game behaves correctly.
     <th>Key</th>
   </tr>
   <tr>
-  <tr><td>Up</td></tr>
+  <tr><td>Up</td><td>Up Arrow</td></tr>
   <tr><td>Down</td></tr>
   <tr><td>Left</td></tr>
   <tr><td>Right</td></tr>
@@ -50,10 +50,6 @@ in turbo mode to verify that the game behaves correctly.
   <tr><td>Y</td></tr>
   <tr><td>L</td></tr>
   <tr><td>R</td></tr>
-  </tr>
-  <tr>
-  <td>Up</td>
-
   </tr>
   
 </table> 
