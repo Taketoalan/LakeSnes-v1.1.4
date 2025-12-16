@@ -32,30 +32,21 @@ saved in the snapshot. It's thus possible to replay a playthrough
 in turbo mode to verify that the game behaves correctly.
 
 -----------------------
-Button   |	  Key
-
-Up 	     |   Up arrow
-
-Down     |	 Down arrow
-
-Left     |	 Left arrow
-
-Right    |	 Right arrow
-
-Start    |	 Enter
-
-Select   |	 Right shift
-
-A        |	   X
-
-B 	     |     Z
-
-X 	     |     S
-
-Y 	     |     A
-
-L 	     |     C
-
-R 	     |     V
-
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
 ------------------------
