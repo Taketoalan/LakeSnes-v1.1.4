@@ -34,19 +34,22 @@ in turbo mode to verify that the game behaves correctly.
 -----------------------
  <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Button</th>
+    <th>Key</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Up</td>
+    <td>Down</td>
+    <td>Left</td>
+    <td>Right</td>
+    <td>Start</td>
+    <td>Select</td>
+    <td>A</td>
+    <td>B</td>
+    <td>X</td>
+    <td>Y</td>
+    <td>L</td>
+    <td>R</td>
   </tr>
 </table> 
 ------------------------
