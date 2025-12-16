@@ -39,6 +39,7 @@ in turbo mode to verify that the game behaves correctly.
   </tr>
   <tr>
     <td>Up</td>
+  </tr> 
     <td>Down</td>
     <td>Left</td>
     <td>Right</td>
