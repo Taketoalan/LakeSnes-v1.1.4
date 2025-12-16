@@ -51,6 +51,20 @@ in turbo mode to verify that the game behaves correctly.
   <tr><td>L</td></tr>
   <tr><td>R</td></tr>
   </tr>
+  <tr>
+  <tr><td>Up</td></tr>
+  <tr><td>Down</td></tr>
+  <tr><td>Left</td></tr>
+  <tr><td>Right</td></tr>
+  <tr><td>Start</td></tr>
+  <tr><td>Select</td></tr>
+  <tr><td>A</td></tr>
+  <tr><td>B</td></tr>
+  <tr><td>X</td></tr>
+  <tr><td>Y</td></tr>
+  <tr><td>L</td></tr>
+  <tr><td>R</td></tr>
+  </tr>
   
 </table> 
 ------------------------
