@@ -1,9 +1,9 @@
 LakeSnes v1.1.4
----------------------------------------------------------
+--------------------------------------------------------------
 A frontend for the Lakesnes emulator with many 
 improvements and greater ease of use based on 
 YAD GUI for GNU/Linux systems.
----------------------------------------------------------
+--------------------------------------------------------------
 https://github.com/Taketoalan/LakeSnes-v1.1.4
 
 Based in the Project of LakeSnes of angelo-wf.
@@ -24,11 +24,11 @@ This project is based in the GNU Version 3 license.
 https://www.gnu.org/licenses/gpl-3.0.html
 
 Usage and controls
---------------------------------------------------------------
+-------------------------------------------------------------------
 The game supports snapshots. The joypad input history is also 
 saved in the snapshot. It's thus possible to replay a playthrough 
 in turbo mode to verify that the game behaves correctly.
---------------------------------------------------------------
+-------------------------------------------------------------------
  <table>
   <tr>
     <th>Button</th>
@@ -51,7 +51,7 @@ in turbo mode to verify that the game behaves correctly.
 </table> 
 
 Troubleshooting
----------------------------------------------------------
+-----------------------------------------------------------------
 
 These are the possible problems and their respective 
 solutions among them are:
@@ -73,5 +73,20 @@ that it will be the path /home/username/lakesnes.
 
 - First execute Start and show the frontend ,for load
  roms click on Open File.
-----------------------------------------------------------
+
+-For the program to work correctly, read and write 
+permissions must be added to the folder.
+
+-The Yad graphical user interface (GUI) must be installed 
+as follows:
+
+Open a terminal and type:
+
+sudo apt install yad
+
+The terminal will then ask you to enter your administrator 
+password. After you do this, the program will be installed 
+and everything will work correctly.
+
+-----------------------------------------------------------------
 <img src="https://github.com/Taketoalan/LakeSnes-v1.1.4/blob/main/image.png">
