@@ -23,7 +23,7 @@ https://github.com/neurobin/shc
 
 https://www.gnu.org/licenses/gpl-3.0.html
 
-Usage and controls
+Usage and Controls
 -------------------------------------------------------------------
  The game supports snapshots. The joypad input history is also 
 saved in the snapshot. It's thus possible to replay a playthrough 
