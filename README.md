@@ -1,31 +1,31 @@
 LakeSnes v1.1.4
 --------------------------------------------------------------
-A frontend for the Lakesnes emulator with many 
+ A frontend for the Lakesnes emulator with many 
 improvements and greater ease of use based on 
 YAD GUI for GNU/Linux systems.
 --------------------------------------------------------------
 https://github.com/Taketoalan/LakeSnes-v1.1.4
 
-Based in the Project of LakeSnes of angelo-wf.
+ Based in the Project of LakeSnes of angelo-wf.
 
 https://github.com/angelo-wf/LakeSnes
 
-Maked by the YAD Libraries.
+ Maked by the YAD Libraries.
 
 https://github.com/v1cont/yad
 
-Compiled scripts to convert shell scripts 
+ Compiled scripts to convert shell scripts 
 into executable binaries.
 
 https://github.com/neurobin/shc
 
-This project is based in the GNU Version 3 license.
+ This project is based in the GNU Version 3 license.
 
 https://www.gnu.org/licenses/gpl-3.0.html
 
 Usage and controls
 -------------------------------------------------------------------
-The game supports snapshots. The joypad input history is also 
+ The game supports snapshots. The joypad input history is also 
 saved in the snapshot. It's thus possible to replay a playthrough 
 in turbo mode to verify that the game behaves correctly.
 -------------------------------------------------------------------
@@ -53,7 +53,7 @@ in turbo mode to verify that the game behaves correctly.
 Troubleshooting
 -----------------------------------------------------------------
 
-These are the possible problems and their respective 
+ These are the possible problems and their respective 
 solutions among them are:
 
 
@@ -80,11 +80,11 @@ permissions must be added to the folder.
 - The Yad graphical user interface (GUI) must be installed 
 as follows:
 
-- Open a terminal and type:
+ Open a terminal and type:
 
-  sudo apt install yad
+ sudo apt install yad
 
-The terminal will then ask you to enter your administrator 
+ The terminal will then ask you to enter your administrator 
 password. After you do this, the program will be installed 
 and everything will work correctly.
 
