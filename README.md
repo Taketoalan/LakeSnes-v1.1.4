@@ -74,4 +74,4 @@ that it will be the path /home/username/lakesnes.
 - First execute Start and show the frontend ,for load
  roms click on Open File.
 ----------------------------------------------------------
-img src="https://github.com/Taketoalan/LakeSnes-v1.1.4/image.png"
+img src="https://github.com/Taketoalan/LakeSnes-v1.1.4/tree/main/image.png"
