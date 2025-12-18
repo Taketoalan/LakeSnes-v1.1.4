@@ -74,15 +74,15 @@ that it will be the path /home/username/lakesnes.
 - First execute Start and show the frontend ,for load
  roms click on Open File.
 
--For the program to work correctly, read and write 
+- For the program to work correctly, read and write 
 permissions must be added to the folder.
 
--The Yad graphical user interface (GUI) must be installed 
+- The Yad graphical user interface (GUI) must be installed 
 as follows:
 
-Open a terminal and type:
+- Open a terminal and type:
 
-sudo apt install yad
+  sudo apt install yad
 
 The terminal will then ask you to enter your administrator 
 password. After you do this, the program will be installed 
