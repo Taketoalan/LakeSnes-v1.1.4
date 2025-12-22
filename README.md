@@ -26,7 +26,7 @@ https://www.gnu.org/licenses/gpl-3.0.html
 Usage and Controls
 -------------------------------------------------------------------
  The game supports snapshots. The joypad input history is also 
-saved in the snapshot. It's thus possible to replay a playthrough 
+saved in the snapshot. It's this possible to replay a playthrough 
 in turbo mode to verify that the game behaves correctly.
 -------------------------------------------------------------------
  <table>
